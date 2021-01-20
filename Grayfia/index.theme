@@ -1,1 +1,9 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Grayfia Version 1
+Comment=Basado en Windows 7 autor original bird2 adaptado por kitsune_shin21
+Encoding=UTF-8
 
+[X-GNOME-Metatheme]
+GtkTheme=Grayfia Version 1
+ButtonLayout=menu:minimize,maximize,close
