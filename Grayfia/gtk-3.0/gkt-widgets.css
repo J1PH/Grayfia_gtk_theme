@@ -1,0 +1,5 @@
+/*GtkTreeView row:nth-child(even),
+GtkTreeView row:nth-child(odd) {
+   background-image:url ("Explorer/ItemsView_Selected Property_BackgroundImage.png");
+}*/
+
